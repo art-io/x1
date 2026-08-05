@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_评论量</title>
+    <g id="交付版本" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="评论管理-筛选关键词后-有评论-批量管理" transform="translate(-422.000000, -278.000000)" fill-rule="nonzero" stroke="#9C9C9C" stroke-width="1.3">
+            <g id="编组-32" transform="translate(264.000000, 180.000000)">
+                <g id="编组-14" transform="translate(101.000000, 18.000000)">
+                    <g id="编组-16" transform="translate(0.000000, 80.000000)">
+                        <g id="编组-5" transform="translate(57.000000, 0.000000)">
+                            <g id="icon_评论量" transform="translate(2.000000, 2.000000)">
+                                <path d="M6,0.5 C9.03756612,0.5 11.5,2.65821626 11.5,5.32051093 C11.5,6.99731531 10.5231742,8.47415622 9.04106429,9.33774783 L5.85142433,11.4722517 C5.77663631,11.5223227 5.67541808,11.5022856 5.62534709,11.4274976 C5.60347001,11.3948211 5.59414635,11.3553361 5.59909575,11.3163251 L5.74941349,10.1361076 C2.82815481,10.021297 0.5,7.90919923 0.5,5.32051093 C0.5,2.65821626 2.96243388,0.5 6,0.5 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
